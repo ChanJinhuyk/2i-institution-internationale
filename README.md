@@ -15,7 +15,7 @@ Ce dépôt regroupe les ressources pédagogiques, les supports de cours et les i
 
  
 
-![Polytechnique🖼](Polytechnique.jpg)
+![Polytechnique🖼](Images/Polytechnique.jpg)
 
 
 ---
@@ -24,7 +24,7 @@ Ce dépôt regroupe les ressources pédagogiques, les supports de cours et les i
 💼 **Formations disponibles :**  
 
 
-![Commerce🖼](images/commerce.jpg)
+![Commerce🖼](Images/commerce.jpg)
 
 
 ---
@@ -32,7 +32,7 @@ Ce dépôt regroupe les ressources pédagogiques, les supports de cours et les i
 ### 🔹 Droit  
 ⚖️ **Formations disponibles :**  
 
-![Droit🖼](images/Droid.jpg)
+![Droit🖼](Images/Droid.jpg)
 
 
 ## 📌 Comment Contribuer ?  
