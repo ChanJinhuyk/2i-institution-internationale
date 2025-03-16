@@ -24,7 +24,7 @@ Ce dépôt regroupe les ressources pédagogiques, les supports de cours et les i
 💼 **Formations disponibles :**  
 
 
-![Commerce🖼](Images/commerce.jpg)
+![Commerce🖼](Images/Commerce.jpg)
 
 
 ---
@@ -32,7 +32,7 @@ Ce dépôt regroupe les ressources pédagogiques, les supports de cours et les i
 ### 🔹 Droit  
 ⚖️ **Formations disponibles :**  
 
-![Droit🖼](Images/Droid.jpg)
+![Droit🖼](Images/Droit.jpg)
 
 
 ## 📌 Comment Contribuer ?  
