@@ -48,7 +48,7 @@ Ce dépôt regroupe les ressources pédagogiques, les supports de cours et les i
 ## 📞 Contact  
 📍 **Institut International 2i**  
 🌐 Site web : [www.institut2i.com](#)  
-✉️ Numéro : [https://wa.me/+242056326534] 
+✉️ [Numéro]: (https://wa.me/+242056326534) 
 
 🚀 *Merci de votre visite et bonne exploration !*  
 
