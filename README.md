@@ -38,7 +38,7 @@ Ce dépôt regroupe les ressources pédagogiques, les supports de cours et les i
 ## 📌 Comment Contribuer ?  
 1. **travailler plus dur**  
  
-  nous avons besoin de beaucoup plus de membres et le main d'oeuvre pour des projets en or
+  nous avons besoin de beaucoup plus de membres  et de la main d'oeuvre pour que toutes les filières confondues puissent communiquer efficacement pour de meilleurs résultats
  
 
 📩 *Pour toute question, contactez-nous !*  
@@ -48,7 +48,7 @@ Ce dépôt regroupe les ressources pédagogiques, les supports de cours et les i
 ## 📞 Contact  
 📍 **Institut International 2i**  
 🌐 Site web : [www.institut2i.com](#)  
-✉️ Numéro : [+242 05 632 6534] 
+✉️ Numéro : [https://wa.me/+242056326534] 
 
 🚀 *Merci de votre visite et bonne exploration !*  
 
