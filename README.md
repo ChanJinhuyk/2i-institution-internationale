@@ -12,49 +12,34 @@ Ce dépôt regroupe les ressources pédagogiques, les supports de cours et les i
 
 ### 🔹 Polytechnique  
 💡 **Formations disponibles :**  
-- Génie Informatique  
-- Génie Civil  
-- Génie Électrique  
 
-🖼 **Image de la filière Polytechnique :**  
-*(Ajoutez une image ici en markdown après l'avoir uploadée sur GitHub)*  
-```md
-![Polytechnique](lien_vers_image)
-```
+ 
+
+![Polytechnique🖼](Polytechnique.jpg)
+
 
 ---
 
 ### 🔹 Commerce  
 💼 **Formations disponibles :**  
-- Marketing et Stratégie Commerciale  
-- Gestion des Entreprises  
-- Comptabilité et Finance  
 
-🖼 **Image de la filière Commerce :**  
-```md
-![Commerce](lien_vers_image)
-```
+
+![Commerce🖼](images/commerce.jpg)
+
 
 ---
 
 ### 🔹 Droit  
 ⚖️ **Formations disponibles :**  
-- Droit des Affaires  
-- Droit International  
-- Droit Fiscal  
 
-🖼 **Image de la filière Droit :**  
-```md
-![Droit](lien_vers_image)
-```
+![Droit🖼](images/Droid.jpg)
 
----
 
 ## 📌 Comment Contribuer ?  
 1. **travailler plus dur**  
-   ```sh
+ 
   nous avons besoin de beaucoup plus de membres et le main d'oeuvre pour des projets en or
-   ```
+ 
 
 📩 *Pour toute question, contactez-nous !*  
 
